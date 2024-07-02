@@ -1,4 +1,4 @@
-For this task, your objective is to design a 3-tier architecture in a cloud platform, such as AWS, Azure, or GCP, with a focus on the following key considerations:
+Main objective is to design a 3-tier architecture on AWS with a focus on the following key considerations:
 
 1. **High Availability**: Ensure your architecture is highly available, capable of withstanding failures, and can provide uninterrupted service.
 
